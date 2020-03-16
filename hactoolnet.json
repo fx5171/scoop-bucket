@@ -1,0 +1,8 @@
+{
+	"url": "https://github.com/Thealexbarney/LibHac/releases/download/v0.9.1/hactoolnet-0.9.1-win.zip",
+	"version": "0.9.1",
+	"bin": [
+		["hactoolnet.exe", "hactoolnet", ""],
+		["hactoolnet.exe", "hactool", ""]
+	]
+}
